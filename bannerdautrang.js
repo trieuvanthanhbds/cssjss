@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://datlegiasy.blogspot.com/' target='_blank'><img src='http://goldidea.com.vn/blog/y-nghia-sau-slogan-hay-can-than.htm' width='500px'/><br/>bán đát nhanh chóng</a>. liên hệ 0901416007. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://datlegiasy.blogspot.com/' target='_blank'><img src='https://znews-photo-td.zadn.vn/w1024/Uploaded/vhuowar/2016_11_29/TATlogo.jpg' width='500px'/><br/>bán đát nhanh chóng</a>. liên hệ 0901416007. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
