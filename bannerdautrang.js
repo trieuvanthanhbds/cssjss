@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://datlegiasy.blogspot.com/' target='_blank'><img src='http://designs.vn/tin-tuc/du-doan-su-dot-pha-cua-xu-huong-thiet-ke-logo-2016_16435.html' width='500px'/><br/>bán đát nhanh chóng</a>. liên hệ 0901416007. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://datlegiasy.blogspot.com/' target='_blank'><img src='https://www.google.com.vn/search?q=hinh+logo&rlz=1C1CHZL_viVN768VN768&tbm=isch&source=iu&ictx=1&fir=QGxzzg1wVgxp3M%253A%252CubRBEWgxksADVM%252C_&usg=__wYRkFub1G3e071cM-WIJ3z1e1lc%3D&sa=X&ved=0ahUKEwjfyui4-dzZAhXGN48KHT2JAygQ9QEILDAB#imgrc=QGxzzg1wVgxp3M:' width='500px'/><br/>bán đát nhanh chóng</a>. liên hệ 0901416007. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
