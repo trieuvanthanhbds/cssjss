@@ -1,5 +1,5 @@
 
-	var url_popup = 'datlegiasy.blogspot.com';
+	var url_popup = 'http://bit.ly/2D97zvW';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
